@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_static_testimonials",
+  "info": {
+    "displayName": "testimonial"
+  },
+  "options": {},
+  "attributes": {
+    "mobile": {
+      "type": "boolean"
+    },
+    "desktop": {
+      "type": "boolean"
+    }
+  }
+}
